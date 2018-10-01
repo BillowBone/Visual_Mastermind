@@ -2,9 +2,11 @@
 Mastermind game in visual mode with WinForms
 
 This game let you choose between basic and hard mode, the first one allows indications after each try of a secret code
+
 When the game's window opens you got to click on a cell and then a new window appears letting you choose one of the 8 colors
 you can fill your cell with, when you have fully filled a row, you can click on its submit button and then get indications
 about your code (like good color good place, good color wrong place or wrong color)
+
 You have 10 tries before the end of the game
 
 Warning : You can't build this project yourself if you don't have at least DevExpress V15 on your computer, you can directly execute the 
